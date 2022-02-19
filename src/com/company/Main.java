@@ -20,6 +20,7 @@ public class Main {
         users.add(nikita);
         users.add(julia);
 
+        //new comment
         users.forEach(System.out::println);
     }
 
